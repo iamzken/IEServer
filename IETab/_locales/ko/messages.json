@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "익스플로러 텝 옵션"
+   },
+   "ctxOpenIETab": {
+      "message": "익스플로러 텝으로 열기"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "현재 텝에서 익스플로러 열기"
+   },
+   "ctxOptions": {
+      "message": "옵션..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "이 페이지를 인터넷 익스플로러 텝으로 보시려면 클릭하십시오"
+   },
+   "extDescription": {
+      "message": "크롬에서 익스플로러 텝을 사용하세요. 가장 많은 네티즌들이 우리의 빠른 서비스를 이용하고 있습니다."
+   },
+   "opt_AddButton": {
+      "message": "추가"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "지정된 URL들은 일치하는 Auto URL이 있더라도 익스플로러 텝에 표기되지 않습니다"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL 예외 설정"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "만약 익스플로러7이나 그 상위의 버젼을 설치하셨다면, 익스플로러 텝은 기본적으로 익스플로러 7을 에뮬레이트합니다. 이 기능을 이용해 사용자는 여러 버젼의 익스플로러를 사용할 수 있습니다."
+   },
+   "opt_CompatReadMore": {
+      "message": "이 기능에 대해 익스플로러 텝 블로그의 내용 보기"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "자동 검색 중지"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Auto URLs 허용"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "일반 옵션"
+   },
+   "opt_IECompatHeader": {
+      "message": "익스플로러 호환 모드"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "익스플로러 옵션..."
+   },
+   "opt_LanguageTest": {
+      "message": "ko"
+   },
+   "opt_NotSupported": {
+      "message": "이용 제한: 이 옵션은 익스플로러에 호환되지 않아서 익스플로러 텝과도 호환되지 않습니다. 크롬에서 바로 여시면 크롬 익스플로러 텝 익스텐션을 이용해 사용할 수 있습니다. 역설적이죠?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "이 기능은 익스플로러8이상의 버젼을 설치하셔야 작동합니다."
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "이 기능은 익스플로러9이상의 버젼을 설치하셔야 작동합니다."
+   },
+   "opt_PopupWithChrome": {
+      "message": "크롬에서 팝업창 허용"
+   },
+   "opt_RegexExample": {
+      "message": "Regular expression example (prefix with 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "제거"
+   },
+   "opt_ShowSearchBox": {
+      "message": "검색 창 열기"
+   },
+   "opt_Title": {
+      "message": "익스플로러 텝 옵션"
+   },
+   "opt_WildcardExample": {
+      "message": "Wildcard 예시: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "IE Tab'폴더에 이 페이지 즐겨찾기 추가"
+   },
+   "tipClose": {
+      "message": "익스플로러 텝 닫고 크롬으로 다시 열기"
+   },
+   "tipDocs": {
+      "message": "익스플로러 텝에 대한 도움 열기"
+   },
+   "tipIETabOptions": {
+      "message": "Auto URLs 변경 및 기타 익스플로러 텝 설정"
+   },
+   "tipSearch": {
+      "message": "웹 검색"
+   }
+}

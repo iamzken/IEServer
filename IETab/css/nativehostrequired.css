@@ -1,0 +1,32 @@
+
+@-webkit-keyframes 'blink' {
+    0% { opacity:1;}
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+body {
+    padding-left:15px;
+}
+
+h1 {
+    margin-left:15px;
+}
+
+#down-arrow {
+    -webkit-transition: all 1s ease-in-out;
+
+    -webkit-animation-direction: normal;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-name: blink;
+    -webkit-animation-timing-function: ease-in-out;
+}
+
+.step-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    margin-bottom:8px;
+    display:inline-block;
+}

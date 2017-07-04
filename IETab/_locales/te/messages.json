@@ -1,0 +1,50 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE ట్యాబ్ ఎంపికలు"
+   },
+   "ctxOpenIETab": {
+      "message": "IE ట్యాబులో తెరువు"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "ప్రస్తుత ట్యాబులో తెరువు"
+   },
+   "ctxOptions": {
+      "message": "ఎంపికలు..."
+   },
+   "opt_AddButton": {
+      "message": "చేర్చు"
+   },
+   "opt_CompatReadMore": {
+      "message": "ఈ ఎంపికల గురించి IE జట్టు బ్లాగులో  మరింత వివరంగా చదవండి"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "సాధారణ ఎంపికలు"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE ఎంపికలు..."
+   },
+   "opt_LanguageTest": {
+      "message": "te_IN"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "మీవద్ద IE8+ ఉంటేనే ఈ సౌలభ్యం పనిచేస్తుంది"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "మీవద్ద IE9+ ఉంటేనే ఈ సౌలభ్యం పనిచేస్తుంది"
+   },
+   "opt_RemoveButton": {
+      "message": "తొలగించు"
+   },
+   "opt_ShowSearchBox": {
+      "message": "వెతుకుడు పెట్టెను చూపించు"
+   },
+   "opt_Title": {
+      "message": "IE ట్యాబ్ ఎంపికలు"
+   },
+   "tipDocs": {
+      "message": "IE ట్యాబ్ గురించి మరింత తెలుసుకోండి"
+   },
+   "tipSearch": {
+      "message": "జాలాన్ని వెతకండి"
+   }
+}

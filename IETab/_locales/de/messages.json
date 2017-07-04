@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Tap Optionen"
+   },
+   "ctxOpenIETab": {
+      "message": "Öffnen in IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Aktuelle Tab öffnen"
+   },
+   "ctxOptions": {
+      "message": "Optionen..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Hier klicken um diese Webseite innerhalb einer IE Tab darzustellen"
+   },
+   "extDescription": {
+      "message": "IE Webseiten Darstellung innerhalb der IE Tab. Schnell, robust und sicher. Diese Version ist die beliebteste."
+   },
+   "opt_AddButton": {
+      "message": "Hinzufügen"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Übereinstimmende URLs erscheinen nicht innerhalb der IE Tab auch wenn die Auto URLs die gleichen sind."
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL Ausnahmen"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Automatische URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "Wenn IE 7 oder eine höhere Version installiert ist, dann wird automatisch die IE Tab innerhalb IE 7 nachgebildet."
+   },
+   "opt_CompatReadMore": {
+      "message": "Nähere Informationen bezueglich weiterer Optionen können sie auf unserem IE Team Blog finden."
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Auto-search deaktivieren"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Auto URLs aktivieren"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Generelle Optionen"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Kompatibilitäts Modus"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Optionen"
+   },
+   "opt_LanguageTest": {
+      "message": "de"
+   },
+   "opt_NotSupported": {
+      "message": "Nicht unterstützt: Die Optionen Funktionen ist zur Zeit nicht unterstützt und koennen daher nicht innerhalb der IE Tab abgerufen werden.Ein wenig ironisch, aber das stimmt."
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Diese Funktion setzt IE8 oder höher voraus."
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Diese Funktion setzt IE8 oder höher voraus."
+   },
+   "opt_PopupWithChrome": {
+      "message": "Pop-up Fenster mit Chrome öffnen"
+   },
+   "opt_RegexExample": {
+      "message": "Reguläres Ausdruck Beispiel (prefix mit ‘r/’):r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Entfernen"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Suchfenster anzeigen"
+   },
+   "opt_Title": {
+      "message": "IE Tab Optionen"
+   },
+   "opt_WildcardExample": {
+      "message": "Wildcard Beispiel: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Bookmark diese Webseite im IE Tab Verzeichnis"
+   },
+   "tipClose": {
+      "message": "IE Tab schliessen und Webseite mit Chrome öffnen"
+   },
+   "tipDocs": {
+      "message": "Weitere Informationen zur IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "Auto URLs oder IE Tab Einstellungen ändern"
+   },
+   "tipSearch": {
+      "message": "Suche im Internet"
+   }
+}

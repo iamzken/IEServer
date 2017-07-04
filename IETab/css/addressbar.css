@@ -1,0 +1,72 @@
+a, a * {
+    text-decoration:none;
+}
+img {
+    border-style:none;
+}
+
+#address-bar, #address-bar * {
+    font-family:arial;
+    font-size:12px;
+}
+
+#address-bar {
+    height:27px;
+    display:table;
+    width:100%;
+    padding:2px 0px 0px 10px;
+}
+
+.vcenter {
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.vcenter * {
+    vertical-align:middle;
+}
+
+#address-bar {
+    background-image: url(../images/bk.gif);
+    border-bottom-style:solid;
+    border-bottom-color:#6B92E7;   /* Use a color that stays the same when downsampled to 16-bit (e.g. over RDP) */
+    border-bottom-width:1px;
+}
+
+#ab-logo {
+    margin-right:10px;
+}
+
+#address-box {
+    background-position:right;
+    background-repeat:no-repeat;
+    position:relative;
+    height:20px;
+    top:0px;left:0px;
+    margin:0px;
+    padding:0 0 0 0;
+    border-bottom-style:solid;
+    border-left-style:solid;
+    border-top-style:solid;
+    border-right-style:none;
+    border-color:#6B92E7;
+    border-width:1px;
+    width:calc(100% - 250px);
+}
+
+#go-btn-anchor {
+    position:relative;
+    left:-3px;
+    top:-1px;
+}
+#close-btn {
+    position:absolute;
+    right:5px;
+    top:7px;
+}
+
+#no-address-bar-anchor {
+    height:1px;
+    width:100%;
+    background-color:#ADAEAD; /* Use a color that downsamples identically to 16-bit mode (e.g. RDP) */
+}

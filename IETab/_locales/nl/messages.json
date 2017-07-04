@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Tabblad Opties"
+   },
+   "ctxOpenIETab": {
+      "message": "Open in IE Tabblad"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Open in huidig tabblad"
+   },
+   "ctxOptions": {
+      "message": "Opties..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Klik om deze pagina in een IE tabblad weer te geven"
+   },
+   "extDescription": {
+      "message": "Geef webpagina's met behulp van IE in een tabblad. Snel, robuust en betrouwbaar. Dit is nietvoor niets de meest populaire versie."
+   },
+   "opt_AddButton": {
+      "message": "Toevoegen"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Overeenkomende URLs worden niet in een IE Tabblad geladen, ook al komen ze voor als Auto URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL Uitzonderingen"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "Als u IE7 of hoger hebt geïnstalleerd, dan wordt door IE Tab standaard IE7 geëmuleerd. Met deze functie kunt u andere versies van IE emuleren."
+   },
+   "opt_CompatReadMore": {
+      "message": "Lees meer over deze opties in de IE Team Blog"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Auto-Search uitschakelen"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Auto URLs inschakelen"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Algemene opties"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Compatibiliteits Modus"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Opties..."
+   },
+   "opt_LanguageTest": {
+      "message": "nl"
+   },
+   "opt_NotSupported": {
+      "message": "NIET ONDERSTEUND: De Opties pagina werkt niet in IE (en werkt daarom ook niet in een IE Tabblad).  U dient deze rechtstreeks in Chrome openen zodat interactie met de IE Tabblad extensie kan plaatsvinden.  Nogal ironisch, he?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Deze functie werkt alleen als u IE8 of hoger hebt geïnstalleerd"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Deze functie werkt alleen als u IE9 of hoger hebt geïnstalleerd"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Open pop-up vensters met Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Voorbeeld van een reguliere expressie (met gebruik van het voorvoegsel 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Verwijderen"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Toon Zoekvenster"
+   },
+   "opt_Title": {
+      "message": "IE Tabblad Opties"
+   },
+   "opt_WildcardExample": {
+      "message": "Wildcard voorbeeld: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Voeg een bladwijzer toe voor deze pagina in de 'IE Tabblad' map"
+   },
+   "tipClose": {
+      "message": "Sluit het IE Tabblad en open deze pagina in Chrome"
+   },
+   "tipDocs": {
+      "message": "Leer meer over het IE Tabblad"
+   },
+   "tipIETabOptions": {
+      "message": "Verander Auto URLs of andere IE Tabblad instellingen"
+   },
+   "tipSearch": {
+      "message": "Zoek op het web"
+   }
+}

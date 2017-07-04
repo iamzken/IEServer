@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Tab Lehetoségek"
+   },
+   "ctxOpenIETab": {
+      "message": "Megnyitás IE Tab-al"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Megnyitás a jelenlegi fülön"
+   },
+   "ctxOptions": {
+      "message": "Beállítások..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Kattints ide, hogy IE-alapú fülön jelenjen meg."
+   },
+   "extDescription": {
+      "message": "Weblapok megjelenítése IE használatával egy fülön. Gyors, eros, és megbízható. Van oka, hogy ez a verzió a legnépszerubb."
+   },
+   "opt_AddButton": {
+      "message": "Hozzáadás"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Összeillo URLok nem lesznek IE Tab-al betöltve, akkor sem ha Auto URLal egyeznek."
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL Kivételek"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLok"
+   },
+   "opt_CompatDescription": {
+      "message": "Ha IE7 vagy újabb van telepítve, akkor alapból az IE Tab emulálja IE 7. Ez a funkció lehetové teszi különbözo verziójú IE emulálását."
+   },
+   "opt_CompatReadMore": {
+      "message": "Tudj meg többet errol a lehetoségrol az IE Team Blogon"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Auto-Keresés letiltása"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Auto URL engedélyezése"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Általános Beállítások"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Kompatibilitási Mód"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Beállítások..."
+   },
+   "opt_LanguageTest": {
+      "message": "HU"
+   },
+   "opt_NotSupported": {
+      "message": "NOT SUPPORTED: The Options page does not work in IE (and therefore won't work in an IE Tab).  You must open it directly in Chrome so it can interact with the IE Tab extension.  Kind of ironic, eh?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Ez a funkció csak akkor muködik ha IE8+ van telepítve"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Ez a funkció csak akkor muködik ha IE9+ van telepítve"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Felugró ablakok megnyitása Chrome-al"
+   },
+   "opt_RegexExample": {
+      "message": "Szokásos kifejezési példa (elotag 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Eltávolítás"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Keresés mutatása"
+   },
+   "opt_Title": {
+      "message": "IE Tab Beállítások"
+   },
+   "opt_WildcardExample": {
+      "message": "Helyettesíto példa: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Könyvjelzo felvétele az 'IE Tab' mappába"
+   },
+   "tipClose": {
+      "message": "IE Tab bezárása és megnyitás Chrome-al"
+   },
+   "tipDocs": {
+      "message": "Tudj meg többet az IE Tab-ról"
+   },
+   "tipIETabOptions": {
+      "message": "Auto URLok megváltoztatása vagy más IE Tab beállítások"
+   },
+   "tipSearch": {
+      "message": "Keresés a weben"
+   }
+}

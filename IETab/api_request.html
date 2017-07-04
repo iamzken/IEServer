@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>IE Tab API Request</title>
+<script src="js/jquery.min.js"></script>
+    <style>
+        #prompt-text {
+            font-size:18px;
+            font-weight:bold;
+        }
+        input[type="button"] {
+            float:right;
+            margin:0px 4px;
+        }
+        label * {
+            vertical-align:middle;
+        }
+        #website {
+            color:red;
+        }
+    </style>
+</head>
+
+<body>
+<div id="content">
+    <span id="prompt-text">The website "<span id="website"></span>" would like to use IE Tab to open web pages.<br/><br/>  Only grant this permission to websites you trust.</span>
+    <br/><br/>
+    <br/><br/>
+
+    <label><input id="dontask" type="checkbox"><span>Don't ask again</span></label>
+    <input id="btnYes" type="button" value="Allow" />
+
+    <input id="btnNo" type="button" value="Don't Allow" />
+
+    <script src="js/utils.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/api_request.js"></script>
+</div>
+</body>
+</html>

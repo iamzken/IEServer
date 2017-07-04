@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Tab オプション"
+   },
+   "ctxOpenIETab": {
+      "message": "IE Tabで開く"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "現在のタブで開く"
+   },
+   "ctxOptions": {
+      "message": "オプション..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "クリックするとIE Tabで開きます"
+   },
+   "extDescription": {
+      "message": "IE Tabでウェブページを表示。 ActiveX、Sharepoint、ICBC、alipayに対応。高速で安定、高信頼性で、誰からも愛されています。"
+   },
+   "opt_AddButton": {
+      "message": "追加"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "このオプションに適合するURLは，Auto URLのリストに適合してもIE Tabでは表示されません。"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL （URL自動変換）の例外"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLs（URL自動変換）"
+   },
+   "opt_CompatDescription": {
+      "message": "IE7もしくはIE7以降をインストールしている場合、IE TabはデフォルトでIE7をエミュレートします。この設定を変更すると、異なるIEのバージョンを設定することが出来ます。"
+   },
+   "opt_CompatReadMore": {
+      "message": "IEチームのブログでこれらのオプションについて読む"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "自動検索を無効にする"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Auto URLs（URL自動変換）を有効にする"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "一般設定"
+   },
+   "opt_IECompatHeader": {
+      "message": "Internet Explorer (IE) 互換モード"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE オプション..."
+   },
+   "opt_LanguageTest": {
+      "message": "ja_JP"
+   },
+   "opt_NotSupported": {
+      "message": "NOT SUPPORTED: オプションのページはIEでは動作しません（したがってIE Tabでも動作しません）  このページはChromeで直接開いてください．"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "この設定はIE8以降をインストールしてある場合に有効です。"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "この設定はIE9以降をインストールしてある場合に有効です。"
+   },
+   "opt_PopupWithChrome": {
+      "message": "ポップアップをChromeで直接表示する"
+   },
+   "opt_RegexExample": {
+      "message": "正規表現の使用例 (prefix with 'r/'): r/file:\\/\\/.*"
+   },
+   "opt_RemoveButton": {
+      "message": "このオプションに適合するURLは，Auto URLのリストに適合してもIE Tabでは表示されません。"
+   },
+   "opt_ShowSearchBox": {
+      "message": "検索ボックスを表示する"
+   },
+   "opt_Title": {
+      "message": "IE Tab オプション"
+   },
+   "opt_WildcardExample": {
+      "message": "ワイルドカードの使用例: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "IE Tabフォルダにブックマーク"
+   },
+   "tipClose": {
+      "message": "IE Tabを閉じ、Chromeで開き直す"
+   },
+   "tipDocs": {
+      "message": "IE Tabについて"
+   },
+   "tipIETabOptions": {
+      "message": "Auto URLsの変更，およびIE Tabの設定"
+   },
+   "tipSearch": {
+      "message": "検索"
+   }
+}

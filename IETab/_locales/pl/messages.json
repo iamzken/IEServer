@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "Ustawienia IE Tab"
+   },
+   "ctxOpenIETab": {
+      "message": "Otwórz w IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Otwórz w tej karcie"
+   },
+   "ctxOptions": {
+      "message": "Opcje..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Kliknij, aby wyświetlić tą stronę w karcie IE"
+   },
+   "extDescription": {
+      "message": "Wyświetlaj strony używając IE w oddzielnej karcie. Szybko, stabilnie, i pewnie. Ta wersja jest najbardziej popularna z tego powodu."
+   },
+   "opt_AddButton": {
+      "message": "Dodaj"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Następujące adresy URL nie będą wczytywane w IE Tab nawet jeśli odpowiadają one automatycznym adresom URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Wyjątki automatycznych adresów URL"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Automatyczne adresy URL"
+   },
+   "opt_CompatDescription": {
+      "message": "Jeśli masz IE7 lub wyższy, wtedy domyślnie IE Tab emuluje IE 7. Ta funkcja pozwala na emulowanie innych wersji IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "Przeczytaj więcej o tych funkcjach na blugu zespołu IE"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Wyłącz automatyczne wyszukiwanie"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Włącz automatyczne adresy URL"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Ustawienia główne"
+   },
+   "opt_IECompatHeader": {
+      "message": "Tryb zgodności IE"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "Opcje IE..."
+   },
+   "opt_LanguageTest": {
+      "message": "pl_PL"
+   },
+   "opt_NotSupported": {
+      "message": "NIEOBSŁUGIWANE: Ustawienia na tej stronie nie działają w IE (więc nie będą też działały w IE Tab).  Musisy otworzyć tą lokalizację bezpośrednio w Chrome, dzięki czemu będzie mogła współpracować z rozszerzeniem IE Tab.  Ironiczne, co?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Ta funkcja dziala tylko jeśli masz IE8+"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Ta funkcja działa tylko jeśli masz IE9+"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Otwieraj wyskakujące okienka za pomocą Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Przykład zwykłego wyrażenia (poprzedzone 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Usuń"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Pokazuj pole wyszukiwania"
+   },
+   "opt_Title": {
+      "message": "Opcje IE Tab"
+   },
+   "opt_WildcardExample": {
+      "message": "Przykład symbolu wieloznacznego: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Zakładkuj tą stronę do folderu 'IE Tab'"
+   },
+   "tipClose": {
+      "message": "Zamknij tą stronę i otwórz ją w Chrome"
+   },
+   "tipDocs": {
+      "message": "Dowiedz się więcej o IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "Zmieni automatyczne adresy URL lub inne ustawienia IE Tab"
+   },
+   "tipSearch": {
+      "message": "Przeszukaj internet"
+   }
+}

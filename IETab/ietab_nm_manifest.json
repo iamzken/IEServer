@@ -1,0 +1,7 @@
+{
+	"name": "net.ietab.ietabhelper.peruser",
+	"description": "IE Tab Helper",
+	"path": "HELPER_PATH",
+	"type": "stdio",
+	"allowed_origins": [ ALLOWED_ORIGINS ]
+}

@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "אפשרויות IE Tab"
+   },
+   "ctxOpenIETab": {
+      "message": "פתח ב-IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "פתח בלשונית נוכחית"
+   },
+   "ctxOptions": {
+      "message": "אפשרויות..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "לחץ כאן על מנת להציג עמוד זה בלשונית מבוססת IE"
+   },
+   "extDescription": {
+      "message": "הצג עמודי אינטרנט על ידי IE בתוך כרום. תומך בפקדי ActiveX, Sharepoint, ICBC, alipay. ברשימת \"עשרת הגדולים\" בהרחבות מאז 2009!"
+   },
+   "opt_AddButton": {
+      "message": "הוסף"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "כתובות תואמות לא יטענו ב-IE Tab אפילו אם יתאמו לכתובת אוטומטית."
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "כתובות אוטומטיות חריגות"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "כתובות אוטומטיות"
+   },
+   "opt_CompatDescription": {
+      "message": "אם מותקן במחשבך IE7 או חדש יותר, אזי כברירת מחדל IE Tab מחקה את IE7. יכולת זו מאפשרת לך לחקות גירסאות אחרות של IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "קרא עוד אודות אפשרויות אלו בבלוג של קבוצת IE"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "מנע חיפוש אוטומטי"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "אפשר כתובות אוטומטיות"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "אפשרויות כלליות"
+   },
+   "opt_IECompatHeader": {
+      "message": "מצב תאימות IE"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "אפשרויות IE..."
+   },
+   "opt_LanguageTest": {
+      "message": "he"
+   },
+   "opt_NotSupported": {
+      "message": "לא נתמך: עמוד האפשרויות לא פועל ב-IE (ולכן לא יעבוד ב-IE Tab). עליך לפתוח אותו ישירות בכרום כדי שיוכל לתקשר עם הרחבת IE Tab. מעט אירוני, הא?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "אפשרות זו דורשת ש-IE8+ יהיה מותקן במחשבך"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "אפשרות זו דורשת ש-IE9+ יהיה מותקן במחשבך"
+   },
+   "opt_PopupWithChrome": {
+      "message": "פתח חלונות קופצים עם כרום"
+   },
+   "opt_RegexExample": {
+      "message": "דוגמא לביטוי רגולרי (עם תחילית '/r'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "הסר"
+   },
+   "opt_ShowSearchBox": {
+      "message": "הצג תיבת חיפוש"
+   },
+   "opt_Title": {
+      "message": "אפשרויות IE Tab"
+   },
+   "opt_WildcardExample": {
+      "message": "דוגמא לתו חופשי: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "צור סימניה עבור עמוד זה בתיקית 'IE Tab'"
+   },
+   "tipClose": {
+      "message": "סגור את IE Tab ופתח עמוד זה בכרום"
+   },
+   "tipDocs": {
+      "message": "למד עוד אודות IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "שנה כתובות אוטומטיות או הגדרות IE Tab נוספות"
+   },
+   "tipSearch": {
+      "message": "חפש ברשת"
+   }
+}

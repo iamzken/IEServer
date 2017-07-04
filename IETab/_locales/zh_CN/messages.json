@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Tab 选项"
+   },
+   "ctxOpenIETab": {
+      "message": "在 IE Tab 中打开"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "在当前标签页中打开"
+   },
+   "ctxOptions": {
+      "message": "选项..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "点击后在IE内核的标签页显示此页面"
+   },
+   "extDescription": {
+      "message": "在标签页中以IE内核显示网页。快捷、强健、可靠。这个版本是最流行的一个原因。"
+   },
+   "opt_AddButton": {
+      "message": "添加"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "指定的 URLs 将不在 IE Tab 中加载，尽管其匹配“自动加载URL”设置"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "“自动加载URL”例外设置"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "自动用 IE Tab 打开URL"
+   },
+   "opt_CompatDescription": {
+      "message": "如果安装了 IE7 或更高版本，则 IE Tab 默认为仿真 IE 7。该设置允许设定仿真不同版本的 IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "在IE开发组博客上了解该选项的更多信息"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "禁止自动搜索"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "允许“自动用 IE Tab 打开URL”"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "常规设置"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE 兼容模式"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "Internet 选项..."
+   },
+   "opt_LanguageTest": {
+      "message": "zh-CN"
+   },
+   "opt_NotSupported": {
+      "message": "暂不支持: 该选项内容无法工作于IE内核 (因此无法工作于 IE Tab).  请直接在 Chrome中打开以便与 IE Tab 扩展进行交互。有点SB吧？"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "该设置仅适用于安装了 IE8 及以上版本"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "该设置仅适用于安装了 IE9 及以上版本"
+   },
+   "opt_PopupWithChrome": {
+      "message": "用 Chrome 打开弹出窗口"
+   },
+   "opt_RegexExample": {
+      "message": "正则表达式示例 (前缀 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "删除"
+   },
+   "opt_ShowSearchBox": {
+      "message": "显示搜索框"
+   },
+   "opt_Title": {
+      "message": "IE Tab 设置"
+   },
+   "opt_WildcardExample": {
+      "message": "通配符示例: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "将此页书签保存至 'IE Tab' 文件夹"
+   },
+   "tipClose": {
+      "message": "关闭 IE Tab 并在 Chrome 中打开此页面"
+   },
+   "tipDocs": {
+      "message": "了解更多关于 IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "更改“自动用 IE Tab 打开URL”或其他 IE Tab 设置"
+   },
+   "tipSearch": {
+      "message": "搜索网页"
+   }
+}

@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Flik Alternativ"
+   },
+   "ctxOpenIETab": {
+      "message": "Öppna i IE Flik"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Öppna i nuvarande flik"
+   },
+   "ctxOptions": {
+      "message": "Alternativ..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Klicka för att visa denna sida i en IE-baserad flik"
+   },
+   "extDescription": {
+      "message": "Visa hemsidor genom att använda IE i en flik. Snabb, stabil och trovärdig. Den här versionen är populärast av en anledning."
+   },
+   "opt_AddButton": {
+      "message": "Lägg till"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Matchande URLs kommer inte laddas i IE Flik även om de matchar en Automatisk URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Automatiska URL Undantag"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Automatiska URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "Om du har IE7 eller högre installerat, efterliknar IE Flik automatiskt IE 7. Denna funktion gör det möjligt att efterlikna olika versioner av IE"
+   },
+   "opt_CompatReadMore": {
+      "message": "Läs mer om dessa alternativ på IE Teamets Blogg"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Inaktivera Auto-Sök"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Aktivera Automatiska URLs"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Allmänna alternativ"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Kompabilitetsläge"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Alternativ..."
+   },
+   "opt_LanguageTest": {
+      "message": "sv"
+   },
+   "opt_NotSupported": {
+      "message": "STÖDS EJ: Alternativsidan fungerar ej i IE (och kommer därför inte att fungera i IE Flik).  Du måste öppna den direkt i Chrome så att den kan integrera med IE Flik tillägget.  Ironiskt, eller hur?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Denna funktion fungerar endast om du har IE8+ installerat"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Denna funktion fungerar endast om du har IE9+ installerat"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Öppna pop-up fönster med Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Regular expression example (prefix with 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Ta bort"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Visa sökrutan"
+   },
+   "opt_Title": {
+      "message": "IE Flik Alternativ"
+   },
+   "opt_WildcardExample": {
+      "message": "Wildcard exempel: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Bokmärk denna sida i 'IE Flik' mappen"
+   },
+   "tipClose": {
+      "message": "Stäng IE Fliken och öppna denna sida i Chrome"
+   },
+   "tipDocs": {
+      "message": "Läs mer om IE Fliken"
+   },
+   "tipIETabOptions": {
+      "message": "Ändra automatiska URLs eller andra IE Flik inställningar"
+   },
+   "tipSearch": {
+      "message": "Sök på nätet"
+   }
+}

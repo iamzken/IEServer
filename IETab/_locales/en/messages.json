@@ -1,0 +1,109 @@
+{
+   "ctxIETabOptions": {
+      "description": "In the right-click menu, this is the parent item for the context menu that contains the IE Tab sub-menu",
+      "message": "IE Tab Options"
+   },
+   "ctxOpenIETab": {
+      "description": "Right-click menu item for opening in a new IE Tab",
+      "message": "Open in IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "description": "Right-click menu item for opening the page using IE in the current tab",
+      "message": "Open in current tab"
+   },
+   "ctxOptions": {
+      "description": "Right-click context menu item that displays the IE Tab options page",
+      "message": "Options..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Click to display this page in an IE-based tab"
+   },
+   "extDescription": {
+      "description": "NOTE:  Maximum 132 characters!!!! The description that shows up in the Chrome Web Store",
+      "message": "Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, Sharepoint, and more. A \"Top 10\" extension since 2009!"
+   },
+   "opt_AddButton": {
+      "message": "Add"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Matching URLs will not be loaded in IE Tab even if they match an Auto URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL Exceptions"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "If you have IE7 or greater installed, then by default IE Tab emulates IE 7. This feature enables you to emulate different versions of IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "Read more about these options at the IE Team Blog"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Disable Auto-Search"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Enable Auto URLs"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "General options"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Compatibility Mode"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Options..."
+   },
+   "opt_LanguageTest": {
+      "description": "Please put the language code you are translating to here",
+      "message": "en"
+   },
+   "opt_NotSupported": {
+      "message": "NOT SUPPORTED: The Options page does not work in IE (and therefore won't work in an IE Tab).  You must open it directly in Chrome so it can interact with the IE Tab extension.  Kind of ironic, eh?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "This feature only works if you have IE8+ installed"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "This feature only works if you have IE9+ installed"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Open pop-up windows with Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Regular expression example (prefix with 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Remove"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Show Search Box"
+   },
+   "opt_Title": {
+      "message": "IE Tab Options"
+   },
+   "opt_WildcardExample": {
+      "message": "Wildcard example: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "description": "Tooltip on the top UI for bookmarking the current page",
+      "message": "Bookmark this page in the 'IE Tab' folder"
+   },
+   "tipClose": {
+      "description": "Tooltip on the top UI for the close button",
+      "message": "Close IE Tab and open this page in Chrome"
+   },
+   "tipDocs": {
+      "description": "Tooltip on the top UI for the help button",
+      "message": "Learn more about IE Tab"
+   },
+   "tipIETabOptions": {
+      "description": "Tooltip on the top UI for invoking the options page",
+      "message": "Change Auto URLs or other IE Tab settings"
+   },
+   "tipSearch": {
+      "description": "Tooltip on the top UI for the search box button",
+      "message": "Search the web"
+   }
+}

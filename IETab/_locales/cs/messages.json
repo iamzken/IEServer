@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "Možnosti IE Tab"
+   },
+   "ctxOpenIETab": {
+      "message": "Otevrít na karte IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Otevrít na aktuální karte"
+   },
+   "ctxOptions": {
+      "message": "Možnosti..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Kliknutím tuto stránku zobrazíte na karte s jádrem IE"
+   },
+   "extDescription": {
+      "message": "Zobrazí webové stránky na karte založené na prohlížeci IE. Rychlé, stabilní a spolehlivé. Tato verze není nejoblíbenejší bezduvodne."
+   },
+   "opt_AddButton": {
+      "message": "Pridat"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Shodující se adresy URL nebudou na karte IE Tab nacteny, ani když se budou shodovat s Automatickou adresou URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Výjimky Automatických adres URL"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Automatické adresy URL"
+   },
+   "opt_CompatDescription": {
+      "message": "Pokud máte nainstalován prohlížec IE7 nebo vyšší, pak rozšírení IE Tab ve výchozím nastavení emuluje prohlížec IE7. Tato funkce umožnuje emulovat jiné verze prohlížece IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "Prectete si o techto možnostech více v blogu týmu IE"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Zakázat automatické vyhledávání"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Povolit Automatické adresy URL"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Obecné možnosti"
+   },
+   "opt_IECompatHeader": {
+      "message": "Režim kompatibility prohlížece IE"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "Možnosti IE..."
+   },
+   "opt_LanguageTest": {
+      "message": "cs"
+   },
+   "opt_NotSupported": {
+      "message": "NEPODPOROVÁNO: Stránka Možnosti v prohlížeci IE nefunguje (a proto nebude fungovat ani v rozšírení IE Tab). Musíte ji otevrít prímo v prohlížeci Chrome, aby mohla pracovat s rozšírením IE Tab. Ponekud ironické, že?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Tato funkce funguje pouze v prípade, že máte nainstalován IE8+"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Tato funkce funguje pouze v prípade, že máte nainstalován IE9+"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Otevírat vyskakovací okna pomocí prohlížece Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Príklad regulárního výrazu (predpona s 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Odstranit"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Zobrazit vyhledávací pole"
+   },
+   "opt_Title": {
+      "message": "Možnosti IE Tab"
+   },
+   "opt_WildcardExample": {
+      "message": "Príklad zástupného znaku: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Vytvorit záložku této stránky ve složce IE Tab"
+   },
+   "tipClose": {
+      "message": "Zavrít IE Tab a otevrít tuto stránku v prohlížeci Chrome"
+   },
+   "tipDocs": {
+      "message": "Další informace o rozšírení IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "Zmenit Automatické adresy URL nebo jiná nastavení IE Tab"
+   },
+   "tipSearch": {
+      "message": "Vyhledat na webu"
+   }
+}

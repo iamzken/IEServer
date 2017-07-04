@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Tab Valgmuligheder"
+   },
+   "ctxOpenIETab": {
+      "message": "Åbn i IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Åbn i nuværende fane"
+   },
+   "ctxOptions": {
+      "message": "Valgmuligheder..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Klik for at vise denne side i en IE-baseret fane"
+   },
+   "extDescription": {
+      "message": "Vis web sider ved brug af IE i en fane. Hurtig, robust, og pålidelig. Der er en grund til at denne version er den mest populære."
+   },
+   "opt_AddButton": {
+      "message": "Tilføj"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Matchende URL'er vil ikke blive startet i IE Tab selv om de passer til en automatisk URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL undtagelser"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "Hvis du har IE7 eller højere installeret, så vil IE Tab som standard emulere IE 7. Denne funktion giver dig mulighed for at emulere forskellige versioner af IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "Læs mere om disse valgmuligheder på IE Team Bloggen"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Deaktiver Auto-Søgning"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Aktiver Auto URL`er"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Generelle valgmuligheder"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE kompatibilitets tilstand"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Valgmuligheder..."
+   },
+   "opt_LanguageTest": {
+      "message": "da"
+   },
+   "opt_NotSupported": {
+      "message": "IKKE SUPPORTERET: Siden med Valgmuligheder virker ikke i IE (og vil derfor ikke virke i IE Tab).  Du er nødt til at åbne den direkte i Chrome så den kan interagere med IE Tab udvidelsen.  Lidt ironisk ik`?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Denne funktion virker kun hvis du har IE8+ installeret"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Denne funktion virker kun hvis du har IE9+ installeret"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Åbn pop-up vinduer med Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Regulært udtrykt eksempel (prefix med 'r/'): r/fil://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Fjern"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Vis Søge Box"
+   },
+   "opt_Title": {
+      "message": "IE Tab Valgmuligheder"
+   },
+   "opt_WildcardExample": {
+      "message": "Wildcard eksempel: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Bogmærk denne side i 'IE Tab' mappen"
+   },
+   "tipClose": {
+      "message": "Luk IE Tab og åbn denne side i Chrome"
+   },
+   "tipDocs": {
+      "message": "Få mere at vide om IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "Skift Auto URL`er eller andre IE Tab indstillinger"
+   },
+   "tipSearch": {
+      "message": "Søg på nettet"
+   }
+}

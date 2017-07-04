@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "Опције 'IE Tab'-а"
+   },
+   "ctxOpenIETab": {
+      "message": "Отвори у 'IE Tab'"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Отвори у актуелном језичку"
+   },
+   "ctxOptions": {
+      "message": "Опције..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Кликнути за отварање листа у IE језичак"
+   },
+   "extDescription": {
+      "message": "Прикажи лист користећи IE у језичак. Брзо, робустан и поуздан. Ова верзија је популарна због разлога."
+   },
+   "opt_AddButton": {
+      "message": "Додај"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Ове УРЛ неће бити учитане у 'IE Tab' и ако одговарају 'Ауто УРЛ'"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Изузеци Ауто УРЛ"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Ауто УРЛ"
+   },
+   "opt_CompatDescription": {
+      "message": "Ако имате IE7 или вече, онда 'IE Tab' имитира IE 7. Ова функција допушта да имитирате друге верзије 'IE'."
+   },
+   "opt_CompatReadMore": {
+      "message": "Прочитајте више о функцијама у 'IE Team Blog'"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Угаси ауто-претрагу"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Упали ауто УРЛ"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Опште опције"
+   },
+   "opt_IECompatHeader": {
+      "message": "Мод компатибилност 'IE'"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "Опције 'IE'..."
+   },
+   "opt_LanguageTest": {
+      "message": "sr"
+   },
+   "opt_NotSupported": {
+      "message": "НЕ ПОДРЖАНО: Опциони лист не ради у IE (и због тога не ради у 'IE Tab').  Требате да је отворите у 'Chrome' тако да може да ради са 'IE Tab' екстензијом.  Иронично зар не?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Ради само ако имате IE8+ инсталиран"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Ради само ако имате IE9+ инсталиран"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Отвори поп-уп прозоре са 'Chrome'"
+   },
+   "opt_RegexExample": {
+      "message": "Пример регуларног израза (префикс са 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Уклони"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Прикажи претражну кутију"
+   },
+   "opt_Title": {
+      "message": "Опције 'IE Tab'"
+   },
+   "opt_WildcardExample": {
+      "message": "Џокер пример: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Маркирај овај лист у 'IE Tab' фасциклу"
+   },
+   "tipClose": {
+      "message": "Затвори 'IE Tab' и отвори лист у 'Chrome'"
+   },
+   "tipDocs": {
+      "message": "Сазнај више о 'IE Tab'"
+   },
+   "tipIETabOptions": {
+      "message": "Промени аутоматске УРЛ или друге поставке 'IE Tab'"
+   },
+   "tipSearch": {
+      "message": "Претражи веб"
+   }
+}

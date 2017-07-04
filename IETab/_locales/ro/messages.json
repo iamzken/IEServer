@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "Optiuni pentru fila IE"
+   },
+   "ctxOpenIETab": {
+      "message": "Deschide în fila IE"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Deschide în fila curenta"
+   },
+   "ctxOptions": {
+      "message": "Optiuni..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Apasa aici pentru a afisa aceasta pagina într-o fila bazata pe IE"
+   },
+   "extDescription": {
+      "message": "Afisaza paginile web folosind IE într-o fila. Rapid, robust si de încredere. Aceasta versiune este cea mai populara pentru un motiv."
+   },
+   "opt_AddButton": {
+      "message": "Adauga"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "URL-urile potrivite nu vor fi încarcate in Fila IE chiar daca se potrivesc unui Auto URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Exceptii Auto URL"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URL-uri"
+   },
+   "opt_CompatDescription": {
+      "message": "Daca ai IE7 sau mai mult instalat, atunci initial Fila IE emuleaza IE7. Aceasta caracteristica îti permite sa emulezi diferite versiuni de IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "Citeste mai mult despre aceste optiuni pe blog-ul echipei IE"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Dezactiveaza functia de cautare automata"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Activeaza Auto URL-uri"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Optiuni generale"
+   },
+   "opt_IECompatHeader": {
+      "message": "Modul de compatibilitate IE"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "Optiuni IE..."
+   },
+   "opt_LanguageTest": {
+      "message": "ro"
+   },
+   "opt_NotSupported": {
+      "message": "NESUPORTAT: Pagina de optiuni nu functioneaza în IE (si de aceea nu va functiona în Fila IE). Trebuie sa o deschizi direct în Chrome pentru a interactiona cu extensia Fila IE. Putin ironic, nu?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Aceasta caracteristica functioneaza doar daca ai IE8+ instalat"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Aceasta caracteristica functioneaza doar daca ai IE9+ instalat"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Deschide ferestre pop-up în Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Exemplu de expresie regulata (prefix cu 'r/'): r/file:VV.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Sterge"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Arata casuta de cautare"
+   },
+   "opt_Title": {
+      "message": "Optiuni Fila IE"
+   },
+   "opt_WildcardExample": {
+      "message": "Exemplu de metacaracter: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Marcheaza aceasta pagina în dosarul 'fila IE'"
+   },
+   "tipClose": {
+      "message": "Închide fila IE si deschide aceasta pagina în Chrome"
+   },
+   "tipDocs": {
+      "message": "Afla mai multe despre Fila IE"
+   },
+   "tipIETabOptions": {
+      "message": "Schimba setarea de Auto URL-uri sau alte setari de file IE"
+   },
+   "tipSearch": {
+      "message": "Cauta pe web"
+   }
+}

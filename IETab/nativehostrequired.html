@@ -1,0 +1,83 @@
+<html>
+<head>
+    <link rel="stylesheet" href="/css/nativehostrequired.css" type="text/css" />
+</head>
+<body style="font-family:arial;">
+
+<div style="width:100%;">
+    <img style="vertical-align:middle" src="/images/chromeie48.png" />
+    <h1 style="display:inline-block;vertical-align:middle;">IE Tab</h1>
+</div>
+
+
+    <h2>One-time installation steps</h2>
+<a href="#faq" style="font-size:20px">What?  Why?  Frequently Asked Questions</a>
+<br/><br/>
+(Enterprise customers: Contact us at support@ietab.net for automatic deployment options)
+<br/><br/>
+
+<div style="">
+    <div style="width:400px;display:inline-block;vertical-align:top">
+    <span class="step-header">Step 1</span><br/>
+    <span style="vertical-align:middle">Click on the ietabhelper.exe below the flashing arrow to launch the IE Tab Helper installer.</span>
+    <br/><br/>
+    <img src="/images/downloadhelper.png"/>
+    <br/><br/>
+    </div>
+
+    <div style="width:400px;display:inline-block;margin-left:40px;">
+    <span class="step-header">Step 2</span><br/>
+    Click on "Run" to run the helper installer:<br/>
+    <img style="-webkit-transform: scale(0.8)" src="/images/openfile.png" />
+    <br/><br/>
+    </div>
+
+    <div style="vertical-align:top;">
+    <span class="step-header">Step 3</span><br/>
+        Confirmation.  This page will re-load when the IE Tab Helper has successfully installed.  If you encounter problems, please contact us at support@ietab.net.
+    <br/><br/>
+    </div>
+</div>
+
+
+<div>
+<hr/>
+<h2 id="faq">Frequently Asked Questions</h2>
+1. Why do you have this extra installation step?
+<br/><br/>
+IE Tab uses the Internet Explorer rendering engine.  This rendering engine can't be directly accessed from a Chrome extension, so we need a helper process to talk between the Chrome extension and the rendering engine.
+<br/><br/>
+2. Did IE Tab always require this extra step?
+<br/><br/>
+No.  Chrome used to support a technology called NPAPI (the Netscape Plugin API) which allowed extensions to access local computer resources.  IE Tab used to use that functionality to access the Internet Explorer rendering engine.  But Chrome removed NPAPI support, so we were forced to implement a new solution, and that solution requires a separate helper executable.  From a technical standpoint, the only real change is that our code moved from an NPAPI .DLL file to a helper .EXE file.
+<br/><br/>
+3. Is it safe?
+<br/><br/>
+Absolutely!  IE Tab has always used native code, and we have always treated the security of our 2+ million users very seriously.  So you can rest assured that this helper executable is secure and trustworthy.
+<br/><br/>
+4. Why do you require this when other solutions do not?
+<br/><br/>
+Some versions of Chrome may still support NPAPI, and other products may still be using it.  But they won't work for long because Chrome is removing that functionality, as you can see in this <a href="http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html">blog post about NPAPI</a>.  We work hard to ensure IE Tab is up-to-date, secure, and works on all versions of Chrome, so we have dropped the use of NPAPI completely.  We recommend you stick with the up-to-date product (IE Tab) and not risk using an old product that will have compatibility problems and may have security issues that have not been addressed.
+<br/><br/>
+5. I'm an enterprise customer, how do I deploy this file automatically?
+<br/><br/>
+We have enterprise deployment options, please contact us at support@ietab.net for details.
+<br/><br/>
+<br/><br/>
+
+<a id="the-download" href="" download="ietabhelper.exe" style="display:none" />
+
+<img id="down-arrow" src="/images/download.png" style="position:fixed;left:0px;bottom:0px;" />
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/nativehostrequired.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "Možnosti IE Tab"
+   },
+   "ctxOpenIETab": {
+      "message": "Otvorit v IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Otvorit v aktuálnom 'tabe'"
+   },
+   "ctxOptions": {
+      "message": "Možnosti..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Klikni pre zobrazenie tejto stránky v tabe emulujúcom InternetExplorer"
+   },
+   "extDescription": {
+      "message": "Zobrazuje webstránky pomocou Internet Explorer priamo v tabe. Rýchlo, úcinne a bezpecne. Táto verzia má byt preco najpopulárnejšia."
+   },
+   "opt_AddButton": {
+      "message": "Pridat"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Zhodujúce sa URL nebúdu zobrazené pomocou IE Tab ani ked sa zhodujú s Auto URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL výnimky"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "Ak máte nainštalovaný IE7 alebo vyššiu verziu, IE Tab emuluje IE 7. Táto funkcia Vám umožní emulovat iné verzie IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "Viac o týchto možnostiach a nastaveniach sa docítate na Blogu IE Team"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Vypnút Automatické hladanie (Auto-Search)"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Zapnút Auto URLs"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Všeobecné možnosti a nastavenia"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Kompatibilný mód"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Možnosti..."
+   },
+   "opt_LanguageTest": {
+      "message": "sk"
+   },
+   "opt_NotSupported": {
+      "message": "NIE JE PODPOROVANÉ: Stránka možností nefunguje v IE (a preto nemôže ani v IE Tab).  Musíte ju otvorit priamo v Chrome, aby mohla spolupracovat s rozšírením IE Tab. Irónia, však?!"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Táto možnost funguje len ak máte nainštalovaný IE8+"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Táto možnost funguje len ak máte nainštalovaný IE9+"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Otvorit nové automacké okná v Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Regular expression example (prefix with 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Odstránit"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Zobrazit Vyhladávanie (Search Box)"
+   },
+   "opt_Title": {
+      "message": "IE Tab Možnosti/Nastavenia"
+   },
+   "opt_WildcardExample": {
+      "message": "Príklad použitia 'wildcards' : http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Pridat záložku s touto stránkou do zložky 'IE Tab'"
+   },
+   "tipClose": {
+      "message": "Zatvor IE Tab a otvor túto stránku v Google Chrome"
+   },
+   "tipDocs": {
+      "message": "Viac o IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "Zmenit Auto URLs alebo iné nastavenia IE Tab"
+   },
+   "tipSearch": {
+      "message": "Hladat na webe"
+   }
+}

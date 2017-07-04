@@ -1,0 +1,98 @@
+{
+   "ctxIETabOptions": {
+      "message": "IE Tab Opzioni"
+   },
+   "ctxOpenIETab": {
+      "message": "Apri con IE Tab"
+   },
+   "ctxOpenInCurrentTab": {
+      "message": "Apri in questa scheda"
+   },
+   "ctxOptions": {
+      "message": "Opzioni..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Click per vedere questa pagina in IE-tab"
+   },
+   "extDescription": {
+      "message": "Visualizza la pagina web usando IE nella scheda. Veloce, robusto, e affidabile. Questa versione è molto popolare a ragione."
+   },
+   "opt_AddButton": {
+      "message": "Aggiungi"
+   },
+   "opt_AutoURLExceptionDescription": {
+      "message": "Individuare gli URLs quando non sono letti in IE Tab anche se corrispondono all' Auto URL"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Auto URL Eccezzioni"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Auto URLs"
+   },
+   "opt_CompatDescription": {
+      "message": "Se hai IE7 installato o migliore, per default IE Tab emula IE 7. Questa funzione ti abilita ad emulare differenti versioni di IE."
+   },
+   "opt_CompatReadMore": {
+      "message": "leggi di più su queste opzioni sul Blog IE Team"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Disabilita Auto-Search"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Abilita Auto URLs"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Opzioni generali"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Modo Compatibilità"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Opzioni..."
+   },
+   "opt_LanguageTest": {
+      "message": "it"
+   },
+   "opt_NotSupported": {
+      "message": "NON SUPPORTATO: Le opzioni di questa pagina non funzionano in IE (e quindi non funzionano in IE Tab).  Puoi aprirle direttamente  in Chrome in modo che possa interagire con le estensioni di IE Tab .  Che ironia, eh?"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Questa funzione è disponibile solo se hai IE8+ installato"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Questa funzione è disponibile solo se hai IE9+ installato"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Apri i pop-up con Chrome"
+   },
+   "opt_RegexExample": {
+      "message": "Esempio di espressione regolare (con prefisso 'r/'): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Rimuovi"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Mostra casella ricerca"
+   },
+   "opt_Title": {
+      "message": "Opzioni IE Tab"
+   },
+   "opt_WildcardExample": {
+      "message": "Esempio: http://www.microsoft.com/*"
+   },
+   "tipBookmarkPage": {
+      "message": "Aggiungi questa pagina nella cartella 'IE Tab'"
+   },
+   "tipClose": {
+      "message": "Chiudi IE Tab e apri questa pagina in Chrome"
+   },
+   "tipDocs": {
+      "message": "Scopri di più su IE Tab"
+   },
+   "tipIETabOptions": {
+      "message": "Cambia Auto URLs o altri settaggi di IE Tab"
+   },
+   "tipSearch": {
+      "message": "Cerca nel web"
+   }
+}

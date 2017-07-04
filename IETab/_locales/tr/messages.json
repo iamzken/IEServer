@@ -1,0 +1,74 @@
+{
+   "ctxOpenInCurrentTab": {
+      "message": "Mevcut Sekmede Aç"
+   },
+   "ctxOptions": {
+      "message": "Seçenekler..."
+   },
+   "extBrowserActionTooltip": {
+      "message": "Sayfayı IE-tabanlı bir sekmede görüntülemek için tıklayın"
+   },
+   "extDescription": {
+      "message": "Web sayfalarını, bir sekmede IE olarak görüntüleyin. Hızlı ve güvenilir. Bu sürümün en popüler olmasının bir sebebi olmalı."
+   },
+   "opt_AddButton": {
+      "message": "Ekle"
+   },
+   "opt_AutoURLsExceptionHeader": {
+      "message": "Otomatik URL İstisnaları"
+   },
+   "opt_AutoURLsHeader": {
+      "message": "Otomatik URL'ler"
+   },
+   "opt_CompatReadMore": {
+      "message": "Bu seçenekler hakkında daha fazlasını IE Ekibi Blog'unda okuyun"
+   },
+   "opt_DisableAutoSearch": {
+      "message": "Otomatik aramayı devre dışı bırak"
+   },
+   "opt_EnableAutoURLs": {
+      "message": "Otomatik URL'leri etkinleştir"
+   },
+   "opt_GenOptionsHeader": {
+      "message": "Genel seçenekler"
+   },
+   "opt_IECompatHeader": {
+      "message": "IE Uyumluluk Kipi"
+   },
+   "opt_IEOptionsPopup": {
+      "message": "IE Seçenekleri..."
+   },
+   "opt_LanguageTest": {
+      "message": "tr_TR"
+   },
+   "opt_OnlyIE8Tip": {
+      "message": "Bu özellik sadece IE8+ kurulu ise çalışmaktadır"
+   },
+   "opt_OnlyIE9Tip": {
+      "message": "Bu özellik sadece IE8+ kurulu ise çalışmaktadır"
+   },
+   "opt_PopupWithChrome": {
+      "message": "Açılır pencereleri Chrome ile aç"
+   },
+   "opt_RegexExample": {
+      "message": "Regular expression örneği (önüne 'r/' ekleyin): r/file://.*"
+   },
+   "opt_RemoveButton": {
+      "message": "Çıkar"
+   },
+   "opt_ShowSearchBox": {
+      "message": "Arama Kutusunu Göster"
+   },
+   "opt_Title": {
+      "message": "IE Tab Sekmesi"
+   },
+   "opt_WildcardExample": {
+      "message": "Wildcard örneği: http://www.microsoft.com/*"
+   },
+   "tipDocs": {
+      "message": "IE Sekmesi hakkında detay öğren"
+   },
+   "tipSearch": {
+      "message": "Internet'te arama yap"
+   }
+}
